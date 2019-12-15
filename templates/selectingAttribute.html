@@ -1,0 +1,44 @@
+{% extends 'theme_2.html' %}
+
+{% block body %}
+
+     <!--================login Area =================-->
+        <section class="login_area p_100">
+            <div class="container">
+                <div class="login_inner">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="login_title">
+                                <h2>log in your account</h2>
+                                <p>Log in to your account to discovery all great features in this template.</p>
+                            </div>
+                            <form class="login_form row" method="POST">
+                                      <div class="col-lg-12 form-group">
+                                    <select type="text" name="brand"  placeholder="Brands" class="form-control" value={{request.form.brand}}>
+                                        <option value="apple">Brands</option>
+                                        <option value="apple">Apple</option>
+                                        <option value="dell">Dell</option>
+                                        <option value="hp">HP</option>
+                                        <option value="lenovo">Lenovo</option>
+                                        <option value="asus">Asus</option>
+                                        <option value="acer">Acer</option>
+                                        <option value="toshiba">Toshiba</option>
+                                        <option value="samsung">Samsung</option>
+                                        <option value="lg">Lg</option>
+                                        <option value="sony">Sony</option>
+                                    </select>
+                                </div>
+                                <div class="col-lg-12 form-group">
+                                    <button type="submit" value="submit" class="btn subs_btn form-control">ARA</button>
+                                </div>
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--================End login Area =================-->
+
+
+{% endblock %}

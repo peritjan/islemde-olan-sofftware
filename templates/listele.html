@@ -1,0 +1,100 @@
+{% extends 'theme_2.html' %}
+
+
+{% block body %}
+     <section class="no_sidebar_2column_area">
+            <div class="container">
+                <div class="showing_fillter">
+                    <div class="row m0">
+                        <div class="first_fillter">
+                            <h4>Showing 1 to 30 of 999 total</h4>
+                        </div>
+                            <div class="secand_fillter">
+                            <h4>SORT BY : <b> Lowest Price </b></h4>
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="two_column_product">
+                    <div class="row">
+
+
+
+
+
+
+        {% for i in range(20) %}
+                          <div class="col-lg-3 col-sm-6">
+                            <div class="l_product_item">
+                                <div class="l_p_img">
+                                    <center>
+                                <a href="{{ products[i].link }}"><img class="img-fluid" style="height: 200px;" src="{{ products[i].image }}" alt=""></a>
+                                    </center>
+                                </div>
+                                <div class="l_p_text" style="height: 130px; background-color:#e8e8e8; ">
+                                   <ul>
+                                        {% if session.logged_in %}
+                                                {% if products[i].fav %}
+                                                      <li><a class="add_cart_btn" href="/addfavorite/{{ i }}">Favorite</a></li>
+                                                {% else %}
+                                                      <li><a class="add_cart_btn" href="/unFavorite/{{  i  }}">UnFavorite</a></li>
+                                                {% endif %}
+                                        {% else %}
+                                                  <li><a class="add_cart_btn" href="/login">Favorite</a></li>
+                                        {% endif %}
+                                    </ul>
+                                    <h4 style="padding-bottom: 10px; font-size: 14px;">{{ products[i].attr }}</h4>
+                                    <h5> {{ products[i].price }}</h5>
+                                </div>
+                            </div>
+                          </div>
+          {% endfor %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                    <nav aria-label="Page navigation example" class="pagination_area">
+                      <ul class="pagination">
+                        <li class="page-item"><a class="page-link" href="/listele1">1</a></li>
+                        <li class="page-item"><a class="page-link" href="/listele2">2</a></li>
+                        <li class="page-item"><a class="page-link" href="/listele3">3</a></li>
+                        <li class="page-item"><a class="page-link" href="#">4</a></li>
+                        <li class="page-item"><a class="page-link" href="#">5</a></li>
+                        <li class="page-item"><a class="page-link" href="#">6</a></li>
+                        <li class="page-item next"><a class="page-link" href="#"><i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+                      </ul>
+                    </nav>
+                </div>
+            </div>
+        </section>
+{% endblock %}

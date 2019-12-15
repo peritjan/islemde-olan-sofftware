@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1974ed80-22ce-4c61-8f03-e6161753f688" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SI29I9JfY4tLEFcfZ5VY1uREIE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alican\Desktop\Software Eng son karışık\static\img" />
+      <recent name="C:\Users\Alican\Desktop\Software Eng son karışık\static" />
+      <recent name="C:\Users\Alican\Desktop\Software Eng son karışık\templates" />
+      <recent name="C:\Users\Alican\Desktop\YEDEK ONEMLİ 2019-12\Software Eng\static" />
+      <recent name="C:\Users\Alican\Desktop\YEDEK ONEMLİ 2019-12\Software Eng\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alican\Desktop\islemde olan sofftware\static\img\icon" />
+      <recent name="C:\Users\Alican\Desktop\Software Eng son karışık\templates" />
+      <recent name="C:\Users\Alican\Desktop\Software Eng son karışık\static\img\icon" />
+      <recent name="C:\Users\Alican\Desktop\Software Eng son karışık\static" />
+      <recent name="C:\Users\Alican\Desktop\YEDEK ONEMLİ 2019-12\Software Eng\static2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.Flask (app.py)">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled11/templates/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dbinit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dbinit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="untitled11" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="untitled11" type="Python.FlaskServer">
+      <module name="untitled11" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (app.py)" />
+        <item itemvalue="Python.dbinit" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1974ed80-22ce-4c61-8f03-e6161753f688" name="Default Changelist" comment="" />
+      <created>1571236635320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571236635320</updated>
+      <workItem from="1571236636444" duration="1145000" />
+      <workItem from="1572097304754" duration="3960000" />
+      <workItem from="1572428199414" duration="1250000" />
+      <workItem from="1572443323123" duration="333000" />
+      <workItem from="1572443674039" duration="913000" />
+      <workItem from="1572511358370" duration="616000" />
+      <workItem from="1574858799297" duration="7660000" />
+      <workItem from="1575283087290" duration="23000" />
+      <workItem from="1575375590061" duration="291000" />
+      <workItem from="1575377793386" duration="694000" />
+      <workItem from="1575455383092" duration="1605000" />
+      <workItem from="1575460746717" duration="4212000" />
+      <workItem from="1575640373384" duration="90000" />
+      <workItem from="1575647735202" duration="2144000" />
+      <workItem from="1575801358195" duration="3506000" />
+      <workItem from="1576069158390" duration="2064000" />
+      <workItem from="1576073089560" duration="461000" />
+      <workItem from="1576073652579" duration="6973000" />
+      <workItem from="1576080887948" duration="475000" />
+      <workItem from="1576081392645" duration="13000" />
+      <workItem from="1576082751948" duration="1135000" />
+      <workItem from="1576083909081" duration="31000" />
+      <workItem from="1576084075872" duration="18000" />
+      <workItem from="1576084113709" duration="48000" />
+      <workItem from="1576084266747" duration="5135000" />
+      <workItem from="1576150404259" duration="3959000" />
+      <workItem from="1576159956819" duration="2435000" />
+      <workItem from="1576162444953" duration="3283000" />
+      <workItem from="1576168166311" duration="6445000" />
+      <workItem from="1576229692691" duration="2853000" />
+      <workItem from="1576232591783" duration="9714000" />
+      <workItem from="1576247149335" duration="3687000" />
+      <workItem from="1576312334704" duration="12901000" />
+      <workItem from="1576325394650" duration="8187000" />
+      <workItem from="1576339215656" duration="5056000" />
+      <workItem from="1576344522677" duration="6356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="161" key="#app" timestamp="1575375715023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="161" key="#app/0.0.1920.1040@0.0.1920.1040" timestamp="1575375715023" />
+    <state x="728" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576083340910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576083340910" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576164435408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576164435408" />
+    <state x="739" y="277" key="FileChooserDialogImpl" timestamp="1576315543009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576315543009" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1576356569339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576356569339" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1576356569339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576356569339" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1576356569339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576356569339" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1576356569339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576356569339" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1576325926914">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576325926914" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1576312339414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576312339414" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Software_Eng$app.coverage" NAME="app Coverage Results" MODIFIED="1576084084063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/islemde_olan_sofftware$app.coverage" NAME="app Coverage Results" MODIFIED="1576315421635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Software_Eng$dbinit.coverage" NAME="dbinit Coverage Results" MODIFIED="1575462801337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Software_Eng$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1576083914267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Software_Eng_son_kark$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1576246913753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled11$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1575283093576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Software_Eng_son_kark$app.coverage" NAME="app Coverage Results" MODIFIED="1576164750602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/islemde_olan_sofftware$dbinit.coverage" NAME="dbinit Coverage Results" MODIFIED="1576319676049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/islemde_olan_sofftware$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1576354656633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled11$app.coverage" NAME="app Coverage Results" MODIFIED="1574866490384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
